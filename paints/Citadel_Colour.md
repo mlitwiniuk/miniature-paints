@@ -254,6 +254,7 @@
 |Macragge Blue|Base|15|61|124|![#0F3D7C](https://placehold.co/15x15/0F3D7C/0F3D7C.png) `#0F3D7C`|
 |Magenta Ink|Foundation (discontinued)|222|0|123|![#DE007B](https://placehold.co/15x15/DE007B/DE007B.png) `#DE007B`|
 |Magos Purple|Contrast|122|63|110|![#7A3F6E](https://placehold.co/15x15/7A3F6E/7A3F6E.png) `#7A3F6E`|
+|Mantis Warriors Green|Contrast|0|72|50|![#004832](https://placehold.co/15x15/004832/004832.png) `#004832`|
 |Martian Ironcrust|Technical|207|112|93|![#CF705D](https://placehold.co/15x15/CF705D/CF705D.png) `#CF705D`|
 |Martian Ironearth|Technical|207|112|93|![#CF705D](https://placehold.co/15x15/CF705D/CF705D.png) `#CF705D`|
 |Mechanicus Standard Grey|Spray|57|72|74|![#39484A](https://placehold.co/15x15/39484A/39484A.png) `#39484A`|
@@ -339,6 +340,7 @@
 |Shyish Purple|Contrast|43|14|66|![#2B0E42](https://placehold.co/15x15/2B0E42/2B0E42.png) `#2B0E42`|
 |Sigismund Yellow Clear|Air|255|227|47|![#FFE32F](https://placehold.co/15x15/FFE32F/FFE32F.png) `#FFE32F`|
 |Sigmarite|Dry|214|172|87|![#D6AC57](https://placehold.co/15x15/D6AC57/D6AC57.png) `#D6AC57`|
+|Sigvald Burgundy|Contrast|85|0|34|![#550022](https://placehold.co/15x15/550022/550022.png) `#550022`|
 |Skarsnik Green|Layer|88|143|107|![#588F6B](https://placehold.co/15x15/588F6B/588F6B.png) `#588F6B`|
 |Skavenblight Dinge|Layer|69|65|59|![#45413B](https://placehold.co/15x15/45413B/45413B.png) `#45413B`|
 |Skeleton Horde|Contrast|164|150|111|![#A4966F](https://placehold.co/15x15/A4966F/A4966F.png) `#A4966F`|
@@ -372,6 +374,7 @@
 |Stormvermin Fur|Layer|109|101|95|![#6D655F](https://placehold.co/15x15/6D655F/6D655F.png) `#6D655F`|
 |Straken Green|Air|89|127|28|![#597F1C](https://placehold.co/15x15/597F1C/597F1C.png) `#597F1C`|
 |Straken Green|Layer|89|127|28|![#597F1C](https://placehold.co/15x15/597F1C/597F1C.png) `#597F1C`|
+|Striking Scorpion Green|Contrast|0|128|64|![#008040](https://placehold.co/15x15/008040/008040.png) `#008040`|
 |Sunburst Yellow|Foundation (discontinued)|255|212|0|![#FFD400](https://placehold.co/15x15/FFD400/FFD400.png) `#FFD400`|
 |Sybarite Green|Air|23|161|102|![#17A166](https://placehold.co/15x15/17A166/17A166.png) `#17A166`|
 |Sybarite Green|Layer|23|161|102|![#17A166](https://placehold.co/15x15/17A166/17A166.png) `#17A166`|
