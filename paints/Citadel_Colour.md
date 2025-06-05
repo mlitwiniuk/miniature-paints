@@ -188,6 +188,7 @@
 |Gryphonne Sepia Wash|Foundation Wash (discontinued)|132|57|16|![#843910](https://placehold.co/15x15/843910/843910.png) `#843910`|
 |Guilliman Blue|Glaze|47|154|214|![#2F9AD6](https://placehold.co/15x15/2F9AD6/2F9AD6.png) `#2F9AD6`|
 |Guilliman Flesh|Contrast|159|70|57|![#9F4639](https://placehold.co/15x15/9F4639/9F4639.png) `#9F4639`|
+|Gutrippa Flesh|Contrast|127|93|70|![#7F5D46](https://placehold.co/15x15/7F5D46/7F5D46.png) `#7F5D46`|
 |Hashut Copper|Layer|186|136|95|![#BA885F](https://placehold.co/15x15/BA885F/BA885F.png) `#BA885F`|
 |Hawk Turquoise|Foundation (discontinued)|0|129|148|![#008194](https://placehold.co/15x15/008194/008194.png) `#008194`|
 |Hellion Green|Dry|127|193|165|![#7FC1A5](https://placehold.co/15x15/7FC1A5/7FC1A5.png) `#7FC1A5`|
@@ -198,6 +199,7 @@
 |Hoeth Blue|Dry|76|120|175|![#4C78AF](https://placehold.co/15x15/4C78AF/4C78AF.png) `#4C78AF`|
 |Hormagaunt Purple|Foundation (discontinued)|84|73|107|![#54496B](https://placehold.co/15x15/54496B/54496B.png) `#54496B`|
 |Ice Blue|Foundation (discontinued)|129|211|235|![#81D3EB](https://placehold.co/15x15/81D3EB/81D3EB.png) `#81D3EB`|
+|Imperial Fist|Contrast|255|221|0|![#FFDD00](https://placehold.co/15x15/FFDD00/FFDD00.png) `#FFDD00`|
 |Imperial Purple|Foundation (discontinued)|86|47|126|![#562F7E](https://placehold.co/15x15/562F7E/562F7E.png) `#562F7E`|
 |Imrik Blue|Dry|32|138|191|![#208ABF](https://placehold.co/15x15/208ABF/208ABF.png) `#208ABF`|
 |Incubi Darkness|Base|8|46|50|![#082E32](https://placehold.co/15x15/082E32/082E32.png) `#082E32`|
